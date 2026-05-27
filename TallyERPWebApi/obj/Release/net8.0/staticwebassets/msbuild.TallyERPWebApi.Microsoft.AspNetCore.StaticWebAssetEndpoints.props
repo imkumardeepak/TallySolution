@@ -1,0 +1,88 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/CreateVoucher.crzioobze6.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\CreateVoucher.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"crzioobze6"},{"Name":"integrity","Value":"sha256-iG1Cru9s9ps8h3/WFol6Jhuf\u002BSJOnT44N6/CeutmArQ="},{"Name":"label","Value":"_content/TallyERPWebApi/TallyXML/CreateVoucher.xml"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20815"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022iG1Cru9s9ps8h3/WFol6Jhuf\u002BSJOnT44N6/CeutmArQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 06:51:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/CreateVoucher.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\CreateVoucher.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iG1Cru9s9ps8h3/WFol6Jhuf\u002BSJOnT44N6/CeutmArQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20815"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022iG1Cru9s9ps8h3/WFol6Jhuf\u002BSJOnT44N6/CeutmArQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 06:51:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetAccountGroup.esscwfpf68.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetAccountGroup.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"esscwfpf68"},{"Name":"integrity","Value":"sha256-QtfO/p7dWQvAMdDmyyCWEfY9eupQbjJ0ZRdK1MSCsLM="},{"Name":"label","Value":"_content/TallyERPWebApi/TallyXML/GetAccountGroup.xml"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"450"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022QtfO/p7dWQvAMdDmyyCWEfY9eupQbjJ0ZRdK1MSCsLM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 07:27:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetAccountGroup.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetAccountGroup.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QtfO/p7dWQvAMdDmyyCWEfY9eupQbjJ0ZRdK1MSCsLM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"450"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022QtfO/p7dWQvAMdDmyyCWEfY9eupQbjJ0ZRdK1MSCsLM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 07:27:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetCurrentComapny.eoz8mq77os.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetCurrentComapny.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eoz8mq77os"},{"Name":"integrity","Value":"sha256-YuubXcEoKM/8zzPmCp9zwNMPFCEfunbVqtZu6k6U8ow="},{"Name":"label","Value":"_content/TallyERPWebApi/TallyXML/GetCurrentComapny.xml"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"507"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022YuubXcEoKM/8zzPmCp9zwNMPFCEfunbVqtZu6k6U8ow=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jan 2025 07:08:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetCurrentComapny.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetCurrentComapny.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YuubXcEoKM/8zzPmCp9zwNMPFCEfunbVqtZu6k6U8ow="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"507"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022YuubXcEoKM/8zzPmCp9zwNMPFCEfunbVqtZu6k6U8ow=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jan 2025 07:08:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetStockGroup.cw2w3nbf68.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetStockGroup.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cw2w3nbf68"},{"Name":"integrity","Value":"sha256-rOWpDIb\u002BtJh1Dt4Lle0gtJslhljAQC9idWD33YhQxh4="},{"Name":"label","Value":"_content/TallyERPWebApi/TallyXML/GetStockGroup.xml"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"465"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022rOWpDIb\u002BtJh1Dt4Lle0gtJslhljAQC9idWD33YhQxh4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 06:24:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetStockGroup.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetStockGroup.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rOWpDIb\u002BtJh1Dt4Lle0gtJslhljAQC9idWD33YhQxh4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"465"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022rOWpDIb\u002BtJh1Dt4Lle0gtJslhljAQC9idWD33YhQxh4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 06:24:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetStockItem.bulcsmr42z.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetStockItem.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bulcsmr42z"},{"Name":"integrity","Value":"sha256-baIxwAck3A/BHxywlbuiamqzc0ipt0RTASgp6CSuBGs="},{"Name":"label","Value":"_content/TallyERPWebApi/TallyXML/GetStockItem.xml"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"515"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022baIxwAck3A/BHxywlbuiamqzc0ipt0RTASgp6CSuBGs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 07:22:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetStockItem.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetStockItem.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-baIxwAck3A/BHxywlbuiamqzc0ipt0RTASgp6CSuBGs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"515"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022baIxwAck3A/BHxywlbuiamqzc0ipt0RTASgp6CSuBGs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 07:22:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetUnit.rd5xnfm2za.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetUnit.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rd5xnfm2za"},{"Name":"integrity","Value":"sha256-gXO4aJ43AOqrLdOyM8phuQN1awjwj\u002BVFdX7RunFtEUM="},{"Name":"label","Value":"_content/TallyERPWebApi/TallyXML/GetUnit.xml"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"447"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022gXO4aJ43AOqrLdOyM8phuQN1awjwj\u002BVFdX7RunFtEUM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 06:21:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetUnit.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetUnit.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gXO4aJ43AOqrLdOyM8phuQN1awjwj\u002BVFdX7RunFtEUM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"447"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022gXO4aJ43AOqrLdOyM8phuQN1awjwj\u002BVFdX7RunFtEUM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 06:21:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetVoucher.5klms0ntty.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetVoucher.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5klms0ntty"},{"Name":"integrity","Value":"sha256-pWLqsiOreGQ4fCmychJsfkIZ2zo0h1aOR7/UC3LXDLw="},{"Name":"label","Value":"_content/TallyERPWebApi/TallyXML/GetVoucher.xml"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"508"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022pWLqsiOreGQ4fCmychJsfkIZ2zo0h1aOR7/UC3LXDLw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jan 2025 18:01:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TallyERPWebApi/TallyXML/GetVoucher.xml">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TallyXML\GetVoucher.xml'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pWLqsiOreGQ4fCmychJsfkIZ2zo0h1aOR7/UC3LXDLw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"508"},{"Name":"Content-Type","Value":"text/xml"},{"Name":"ETag","Value":"\u0022pWLqsiOreGQ4fCmychJsfkIZ2zo0h1aOR7/UC3LXDLw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jan 2025 18:01:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

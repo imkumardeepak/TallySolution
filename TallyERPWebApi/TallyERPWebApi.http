@@ -1,0 +1,6 @@
+@TallyERPWebApi_HostAddress = http://localhost:5137
+
+GET {{TallyERPWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

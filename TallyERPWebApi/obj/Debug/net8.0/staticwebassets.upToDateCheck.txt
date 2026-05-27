@@ -1,0 +1,14 @@
+wwwroot\TallyXML\CreateLedeger.xml
+wwwroot\TallyXML\CreateStockGroup.xml
+wwwroot\TallyXML\CreateStockItem.xml
+wwwroot\TallyXML\CreateUnit.xml
+wwwroot\TallyXML\CreateVoucher.txt
+wwwroot\TallyXML\GetAccountGroup.xml
+wwwroot\TallyXML\GetCurrentComapny.xml
+wwwroot\TallyXML\GetLedger.xml
+wwwroot\TallyXML\GetLedgerByAccountType.xml
+wwwroot\TallyXML\GetStockGroup.xml
+wwwroot\TallyXML\GetStockItem.xml
+wwwroot\TallyXML\GetUnit.xml
+wwwroot\TallyXML\GetVoucher.xml
+wwwroot\TallyXML\GetVoucherType.xml

@@ -1,0 +1,180 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_3",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.AccountGroupController",
+    "Method": "Get",
+    "RelativePath": "api/AccountGroup",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.AllLedgerController",
+    "Method": "Get",
+    "RelativePath": "api/AllLedger",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.AllLedgerController",
+    "Method": "SaveLedger",
+    "RelativePath": "api/AllLedger",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ledger",
+        "Type": "TallyERPWebApi.Model.Ledger",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.CompanyController",
+    "Method": "Get",
+    "RelativePath": "api/Company",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.StockGroupController",
+    "Method": "Get",
+    "RelativePath": "api/StockGroup",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.StockGroupController",
+    "Method": "Savestockgroup",
+    "RelativePath": "api/StockGroup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stockgroup",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.StockItemController",
+    "Method": "Get",
+    "RelativePath": "api/StockItem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.StockItemController",
+    "Method": "Savestockitem",
+    "RelativePath": "api/StockItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stockItem",
+        "Type": "TallyERPWebApi.Model.StockItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.UOMController",
+    "Method": "Get",
+    "RelativePath": "api/UOM",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.UOMController",
+    "Method": "SaveUOM",
+    "RelativePath": "api/UOM",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.VouchersController",
+    "Method": "Get",
+    "RelativePath": "api/Vouchers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.VouchersController",
+    "Method": "SaveVoucher",
+    "RelativePath": "api/Vouchers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "voucher",
+        "Type": "TallyERPWebApi.Model.Voucher",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallyERPWebApi.Controllers.VouchersController",
+    "Method": "GetVoucherType",
+    "RelativePath": "api/Vouchers/GetVoucherType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,132 @@
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\nlog.config
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\appsettings.Development.json
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\appsettings.json
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.exe
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.deps.json
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.runtimeconfig.json
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.pdb
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\NLog.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\NLog.Extensions.Logging.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\NLog.Web.AspNetCore.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Serilog.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Serilog.AspNetCore.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Serilog.Extensions.Hosting.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Serilog.Extensions.Logging.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Serilog.Formatting.Compact.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Serilog.Settings.Configuration.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Serilog.Sinks.Console.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Serilog.Sinks.Debug.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Serilog.Sinks.File.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\System.IO.Pipelines.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\System.Text.Encodings.Web.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\System.Text.Json.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.csproj.AssemblyReference.cache
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.AssemblyInfoInputs.cache
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.AssemblyInfo.cs
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.csproj.CoreCompileInputs.cache
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\staticwebassets.build.json
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\staticwebassets.development.json
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\staticwebassets\msbuild.TallyERPWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\staticwebassets\msbuild.build.TallyERPWebApi.props
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.TallyERPWebApi.props
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.TallyERPWebApi.props
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\staticwebassets.pack.json
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\scopedcss\bundle\TallyERPWebApi.styles.css
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERP.A37CEA3D.Up2Date
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.dll
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\refint\TallyERPWebApi.dll
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.pdb
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.genruntimeconfig.cache
+D:\PROJECT\R&D\TallyERPWebApi\obj\Release\net8.0\ref\TallyERPWebApi.dll
+D:\PROJECT\R&D\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.staticwebassets.runtime.json
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\appsettings.Development.json
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\appsettings.json
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.staticwebassets.runtime.json
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.staticwebassets.endpoints.json
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.exe
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\nlog.config
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.deps.json
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.runtimeconfig.json
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\TallyERPWebApi.pdb
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\NLog.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\NLog.Extensions.Logging.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\NLog.Web.AspNetCore.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Serilog.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Serilog.AspNetCore.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Serilog.Extensions.Hosting.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Serilog.Extensions.Logging.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Serilog.Formatting.Compact.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Serilog.Settings.Configuration.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Serilog.Sinks.Console.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Serilog.Sinks.Debug.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Serilog.Sinks.File.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\System.IO.Pipelines.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\System.Text.Encodings.Web.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\System.Text.Json.dll
+D:\VISUAL STDIO\TallyERPWebApi\bin\Release\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.csproj.AssemblyReference.cache
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.AssemblyInfoInputs.cache
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.AssemblyInfo.cs
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.csproj.CoreCompileInputs.cache
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\scopedcss\bundle\TallyERPWebApi.styles.css
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets.build.json
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets.development.json
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets\msbuild.TallyERPWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets\msbuild.TallyERPWebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets\msbuild.build.TallyERPWebApi.props
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.TallyERPWebApi.props
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.TallyERPWebApi.props
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets.pack.json
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERP.A37CEA3D.Up2Date
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.dll
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\refint\TallyERPWebApi.dll
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.pdb
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\TallyERPWebApi.genruntimeconfig.cache
+D:\VISUAL STDIO\TallyERPWebApi\obj\Release\net8.0\ref\TallyERPWebApi.dll
