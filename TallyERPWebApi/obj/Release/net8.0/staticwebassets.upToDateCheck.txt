@@ -1,7 +1,0 @@
-wwwroot\TallyXML\CreateVoucher.xml
-wwwroot\TallyXML\GetAccountGroup.xml
-wwwroot\TallyXML\GetCurrentComapny.xml
-wwwroot\TallyXML\GetStockGroup.xml
-wwwroot\TallyXML\GetStockItem.xml
-wwwroot\TallyXML\GetUnit.xml
-wwwroot\TallyXML\GetVoucher.xml
